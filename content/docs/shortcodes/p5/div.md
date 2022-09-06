@@ -8,6 +8,8 @@ p5 `div` [shortcodes](https://gohugo.io/content-management/shortcodes/) embed [p
 
 All parameters are optional but `sketch`. Default values are shown in the above snippet but for `libs*`. Up to `lib5` libs may be specified.
 
+## Image Test 2
+{{< p5-div sketch="/vc-showcase/sketches/image-test.js" >}}
 ## Scintillating grid
 
 Look at [this](https://mathworld.wolfram.com/ScintillatingGridIllusion.html) and also [this](https://www.illusionsindex.org/i/scintillating-grid) among many more references there are.
@@ -160,7 +162,7 @@ Adapted from [here](https://p5js.org/examples/dom-video-canvas.html). Don't forg
   p5.setup = function() {
     p5.createCanvas(710, 400);
     // specify multiple formats for different browsers
-    fingers = p5.createVideo(['/showcase/sketches/fingers.mov', '/showcase/sketches/fingers.webm']);
+    fingers = p5.createVideo(['/vc-showcase/sketches/fingers.mov', '/vc-showcase/sketches/fingers.webm']);
     fingers.hide(); // by default video shows up in separate dom
                     // element. hide it and draw it to the canvas instead    
   };
@@ -188,7 +190,7 @@ Note that `p5` should be the name to be used for the sketch object variable.
   p5.setup = function() {
     p5.createCanvas(710, 400);
     // specify multiple formats for different browsers
-    fingers = p5.createVideo(['/showcase/sketches/fingers.mov', '/showcase/sketches/fingers.webm']);
+    fingers = p5.createVideo(['/vc-showcase/sketches/fingers.mov', '/vc-showcase/sketches/fingers.webm']);
     fingers.hide(); // by default video shows up in separate dom
                     // element. hide it and draw it to the canvas instead    
   };
