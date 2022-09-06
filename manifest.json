@@ -1,6 +1,6 @@
 {
-  "name": "Showcase!!",
-  "short_name": "Showcase!!",
+  "name": "Visual Computing Showcase",
+  "short_name": "Visual Computing Showcase",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
