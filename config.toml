@@ -1,6 +1,6 @@
 baseURL = "https://jujpenabe.github.io/vc-showcase"
 languageCode = "en-us"
-title = "Showcase!!"
+title = "Visual Computing Showcase"
 theme = 'book'
 
 # Book configuration
