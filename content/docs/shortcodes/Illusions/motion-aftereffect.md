@@ -1,6 +1,6 @@
-# Motion Aftereffect
+# Motion Aftereffect (Waterfall Illusion)
 
-## Motion aftereffect (Waterfall Illusion)
+## Explanation
 
 Fixate on the central cross during the motion and watch the cycle at least three times. Observe the motion aftereffect in the resting figure (the Buddha of Kamakura). [There is a more flashy version on the next page.] The “warping” caused by the motion aftereffect applies to anything you look at.
 
