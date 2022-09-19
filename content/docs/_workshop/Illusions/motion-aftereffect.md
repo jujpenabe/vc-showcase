@@ -1,4 +1,4 @@
-# Motion Aftereffect (Waterfall Illusion)
+# Motion Aftereffect (Waterfall Illusion) {#Title}
 
 ## Explanation
 
@@ -11,7 +11,7 @@ This is often explained in terms of “fatigue” of the class of neurons encodi
 For a more detailed explanation and a neat demo of the “waterfall effect” see [George Mather’s MAE page](http://www.georgemather.com/MotionDemos/MAEMP4.html).
 
 {{% center %}}
-{{< details title="Waterfall Illusion" open=false >}}
+{{< details title="Waterfall Illusion" open=true >}}
 {{< p5-div sketch="/vc-showcase/sketches/waterfall-illusion.js" >}}
 {{< /details >}}
 {{% /center %}}
