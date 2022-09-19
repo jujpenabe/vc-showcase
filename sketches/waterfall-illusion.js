@@ -15,7 +15,7 @@ let showImage = false;
 let button;
 
 function preload() {
-    img = loadImage("/vc-showcase/sketches/buddha.jpg");
+    originalImage = loadImage("/vc-showcase/sketches/buddha.jpg");
 };
 
 function setup() {
@@ -95,7 +95,7 @@ function draw() {
     if (frameCount % delayTime == 0) showImage = !showImage;
     if (showImage) {
         delayTime = 250;
-        image(img, 0, 0, 400, 400);
+        image(originalImage, 0, 0, 400, 400);
     } else {
         noFill();
         stroke(0);
